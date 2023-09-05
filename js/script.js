@@ -7,7 +7,6 @@ menuIcon.onclick= () =>{
 
 }
 
-
 let sections = document.querySelectorAll('section');
 let navLinks = document.querySelectorAll('header nav a');
 
@@ -57,7 +56,7 @@ ScrollReveal({
 //  typed
 
 const typed = new Typed('.multiple-text',{
-strings : ['Full Stack Developer','Competitive Coder','Sports Enthusiast'],
+strings : ['Frontend Developer','Competitive Coder','Athlete' ],
 typeSpeed : 100,
 backSpeed : 100,
 backDelay : 1000,
